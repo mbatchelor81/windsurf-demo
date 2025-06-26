@@ -1,0 +1,9 @@
+{
+  "name": "Agar.io Clone Development",
+  "dockerFile": "../Dockerfile",
+  "overrideCommand": false,
+  "forwardPorts": [5000],
+  "features": {
+    "ghcr.io/devcontainers/features/common-utils:2": {}
+  }
+}
